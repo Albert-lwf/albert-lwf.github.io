@@ -52,7 +52,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
   #twitter: frommidworld
-  youtube:
+  youtube: 
 
 # Text under the icons in footer
 footer-text: Copyright (c) 2019 lemon
@@ -63,13 +63,13 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: 0dabe0164a4ace8161ec
+  clientSecret: 39ea5ba028e62f82e914cc463eab2ac601f38292
   repo: albertleers.github.io
   owner: albertleers
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: 
+google_analytics: G-PENJG4PXYS
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
